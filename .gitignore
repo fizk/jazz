@@ -162,3 +162,4 @@ dist
 
 public/*.js
 public/*.css
+functions/lib
